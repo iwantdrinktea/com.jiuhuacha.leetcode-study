@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+//迭代
 public class LinkedListReverse {
     public static void main(String[] args) {
         LinkedList node5 = new LinkedList(5,null);
